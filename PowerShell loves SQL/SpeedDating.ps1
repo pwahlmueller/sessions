@@ -36,7 +36,7 @@ Get-DbaAgentJobHistory -SqlInstance localhost
 Get-DbaLogin localhost | format-table
 
 Export-DbaLogin -SqlInstance localhost -path C:\tmp
-code C:\tmp\T480-20191015111238-login.sql
+
 #endregion
 
 #Region DB Prozesse
