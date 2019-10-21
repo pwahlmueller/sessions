@@ -1,5 +1,5 @@
 ###
-## PowerShell für SQL DBAs
+## PowerShell fÃ¼r SQL DBAs
 ##
 return 'You should not pass!'
 #region Step 1 - Find Module
@@ -24,7 +24,7 @@ Import-Module sqlserver
 #endregion Step 2
 
 #region Step 3 - Find DBA Commands
-find-dbacommand -tag Database
+find-dbacommand  | ogv
 Find-DbaCommand -Tag Backup
 Find-DbaCommand -tag Restore
 Find-dbaCommand -tag Migration
