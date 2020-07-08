@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\GITHUB"
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"titleBar.activeBackground": "#66dcd2",
+			"titleBar.activeForeground": "#15202b",
+			"titleBar.border": "#66dcd2",
+			"titleBar.inactiveBackground": "#66dcd299",
+			"titleBar.inactiveForeground": "#15202b99",
+			"editorGroup.border": "#8fe5de",
+			"panel.border": "#8fe5de",
+			"sideBar.border": "#8fe5de"
+		},
+		"peacock.color": "#66dcd2"
+	}
+}
